@@ -1,4 +1,1 @@
-# 我的自定义 GitHub 规则
-- DOMAIN-SUFFIX,51cg1.com,🚀 默认代理
-- DOMAIN-SUFFIX,mrds.com,🚀 默认代理
-- DOMAIN-SUFFIX,qwen.ai,直连
+DOMAIN-SUFFIX,github.com
