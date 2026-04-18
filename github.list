@@ -1,0 +1,8 @@
+# 我的自定义 GitHub 规则
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-KEYWORD,github
+IP-CIDR,140.82.112.0/20,no-resolve
+IP-CIDR,185.199.108.0/22,no-resolve
